@@ -1,26 +1,19 @@
-# Music-Genre-Analysis
-# Music Genre EDA 🎶
+# 🎵 Music EDA Project
 
-This project contains exploratory data analysis on a music dataset. We explore trends, correlations, and distributions of various musical features such as tempo, loudness, and danceability.
+This is a simple exploratory data analysis (EDA) project on music tracks, including genres, popularity, tempo, and danceability.
 
-## Dataset
-The dataset (`music.csv`) contains information like:
-- Track name
-- Artist
-- Genre
-- Popularity
-- Tempo
-- Loudness
-- Danceability
-- Energy
-- Acousticness
+## 📁 Project Structure
+- `data/music.csv` — Dataset
+- `requirements.txt` — Dependencies
+- `eda_music.ipynb` — EDA Notebook (coming soon)
 
-## Libraries Used
-- pandas
-- matplotlib
-- seaborn
-- plotly
+## 📊 Visuals Include
+- Genre frequency
+- Popularity by genre
+- Correlation heatmap
+- Danceability vs Energy scatterplot
 
-## How to Run
-1. Clone this repo
-2. Install requirements:
+## ▶️ How to Run
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
