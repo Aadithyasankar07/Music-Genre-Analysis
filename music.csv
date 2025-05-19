@@ -1,0 +1,6 @@
+track,artist,genre,popularity,tempo,loudness,danceability,energy,acousticness
+Blinding Lights,The Weeknd,Pop,95,171,-5.9,0.514,0.73,0.001
+Watermelon Sugar,Harry Styles,Pop,88,95,-4.4,0.785,0.578,0.082
+Rockstar,DaBaby,Hip-Hop,89,159,-4.5,0.694,0.796,0.073
+Peaches,Justin Bieber,R&B,85,90,-6.1,0.812,0.71,0.097
+Shape of You,Ed Sheeran,Pop,93,96,-3.9,0.825,0.652,0.058
